@@ -9,3 +9,5 @@ Neste exercício deveríamos desenvolver um  calculadora de notas simples que pe
 Fiz algumas alterações por minha conta. 
 
 Fiquem a vontade para olhar estou aberto  a dicas e sugestões.
+
+<img src="\image\telas.jpg" />
