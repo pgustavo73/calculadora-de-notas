@@ -10,4 +10,4 @@ Fiz algumas alterações por minha conta.
 
 Fiquem a vontade para olhar estou aberto  a dicas e sugestões.
 
-<img src="\image\telas.jpg" />
+<img src="https://github.com/pgustavo73/calculadora-de-notas/blob/master/image/telas.jpg" />
