@@ -1,13 +1,14 @@
-# 1º Primeiro app com Kotlin 
+# 1º Fist app with Kotlin 
 
-OLA"  bem vindo 
+Hello welcome
 
-Esta foi a primeira aula com Android Studio do BootCAmp da  Everis na DIO.
+This was everis BootCAmp's first Android Studio class at DIO.
 
-Neste exercício deveríamos desenvolver um  calculadora de notas simples que permite calcular a media de um aluno e dizer se foi reprovado ou não.
+In this exercise, we should develop a simple grading calculator that allows us to calculate the average of a student and tell if they failed or not.
 
-Fiz algumas alterações por minha conta. 
+I made some changes on my own.
 
-Fiquem a vontade para olhar estou aberto  a dicas e sugestões.
+Feel free to look, I am open to tips and suggestions.
 
+# Screens
 <img src="https://github.com/pgustavo73/calculadora-de-notas/blob/master/image/telas.jpg" />
